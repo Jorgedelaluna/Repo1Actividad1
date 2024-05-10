@@ -5,3 +5,4 @@
 
 # Ignorar archivos compilados .class
 *.class
+/.metadata/
