@@ -1,0 +1,7 @@
+# Ignorar archivos y carpetas de Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar archivos compilados .class
+*.class
